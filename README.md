@@ -1,4 +1,4 @@
-🌦️ Weather Voice Chatbot (Python)
+# 🌦️ Weather Voice Chatbot 
 
 A Python-based voice-enabled Weather Chatbot that provides real-time district-wise weather updates and forecasts using speech recognition, text-to-speech, and a PostgreSQL database.
 The chatbot allows users to speak the district name, fetches weather data from a database, and responds back using voice with current conditions and future forecasts.
